@@ -1,0 +1,26 @@
+[
+    {
+		"name" : 'Podio API',
+		"url" : 'https://podio.com'
+    },
+    {
+		"name" : 'A2B Main Server',
+		"url" : 'http://34.94.242.136',
+		"postUrl" : 'http://34.94.242.136/hook/re-router/'
+    },
+    {
+		"name" : 'Live Server',
+		"url" : 'http://108.61.217.20',
+		"postUrl" : 'http://108.61.217.20/hook/re-router/'
+    },
+    {
+		"name" : 'Back-Up 01',
+		"url" : 'http://68.183.145.228',
+		"postUrl" : 'http://68.183.145.228/hook/re-router/'
+    },
+    {
+		"name" : 'Back-Up 02/Test Server',
+		"url" : 'http://35.238.140.232',
+		"postUrl" : 'http://35.238.140.232/hook/re-router/'
+    }
+]
