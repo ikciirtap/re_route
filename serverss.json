@@ -5,8 +5,8 @@
     },
     {
 		"name" : 'A2B Main Server',
-		"url" : 'http://34.94.242.136',
-		"postUrl" : 'http://34.94.242.136/hook/re-router/'
+		"url" : 'http://68.183.145.228',
+		"postUrl" : 'http://68.183.145.228/hook/re-router/'
     },
     {
 		"name" : 'Live Server',
@@ -15,8 +15,8 @@
     },
     {
 		"name" : 'Back-Up 01',
-		"url" : 'http://68.183.145.228',
-		"postUrl" : 'http://68.183.145.228/hook/re-router/'
+		"url" : 'http://34.94.242.136',
+		"postUrl" : 'http://34.94.242.136/hook/re-router/'
     },
     {
 		"name" : 'Back-Up 02/Test Server',
