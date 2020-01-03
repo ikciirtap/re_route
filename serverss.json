@@ -1,11 +1,16 @@
 [
     {
-		"name" : 'Podio API',
-		"url" : 'https://podio.com'
+		"name" : "Podio API",
+		"url" : "https://podio.com"
     },
     {
-		"name" : 'A2B Main Server',
-		"url" : 'http://68.183.145.228',
-		"postUrl" : 'http://68.183.145.228/hook/re-router/'
+	    	"name" : "Google VPS",
+	    	"url" : "http://35.236.8.180",
+	    	"postUrl" : "http://35.236.8.180/hook/re-router/"
+    },
+    {
+		"name" : "A2B Main Server",
+		"url" : "http://68.183.145.228",
+		"postUrl" : "http://68.183.145.228/hook/re-router/"
     }
 ]
