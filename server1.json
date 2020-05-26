@@ -4,6 +4,11 @@
 		"url" : "https://podio.com"
     },
     {
+	    	"name" : "Patrick VPS",
+	    	"url" : "http://18.217.95.221",
+	    	"postUrl" : "http://18.217.95.221/hook/re-router/"
+    },
+    {
 	    	"name" : "Google VPS",
 	    	"url" : "http://35.236.8.180",
 	    	"postUrl" : "http://35.236.8.180/hook/re-router/"
