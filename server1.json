@@ -4,6 +4,11 @@
 		"url" : "https://podio.com"
     },
     {
+	    	"name" : "A2B VPS",
+	    	"url" : "http://35.225.170.185",
+	    	"postUrl" : "http://35.225.170.185/hook/re-router/"
+    },
+    {
 	    	"name" : "Patrick VPS",
 	    	"url" : "http://18.217.95.221",
 	    	"postUrl" : "http://18.217.95.221/hook/re-router/"
